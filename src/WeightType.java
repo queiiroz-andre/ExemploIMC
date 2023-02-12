@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class WeightType {
+class WeightType {
+    public String getType() {
+        return "Tipo de peso não especificado";
+    }
 }

@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Overweight {
+class Overweight extends WeightType {
+    public String getType() {
+        return "Sobrepeso";
+    }
 }
